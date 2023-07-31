@@ -11,14 +11,11 @@ body{
     margin: 0;
     font-family: 'Playfair Display', serif;
     font-weight: 500;
-    
+
 }
 .small {
-    font-size: 40px;
-    color: #fff;
-    text-transform: uppercase;
-    cursor: pointer;
-    text-decoration: underline;
+    font-size: 80%;
+    text-align: center;
 }
 .split-screen {
     display: flex;
@@ -33,7 +30,7 @@ body{
     align-items: center;
 }
 .left {
-    background: url(portfolio-1.jpg);
+    background: url(images/portfolio-2.jpg);
     background-size: cover;
 }
 .left .copy {
@@ -47,6 +44,9 @@ body{
 .right .copy {
     color: rgb(14, 9, 24);
     text-align: center;
+}
+h1 {
+    color: #C850C0;
 }
 .right .copy p {
     margin: 1.5rem 0;

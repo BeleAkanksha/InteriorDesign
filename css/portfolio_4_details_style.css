@@ -11,6 +11,8 @@ body{
     margin: 0;
     font-family: 'Playfair Display', serif;
     font-weight: 500;
+    /* background-color: #4158D0; */
+    /* background: linear-gradient(43deg, #46518a 0%, #81457c 46%, #fdf1db 100%); */
 }
 .small {
     font-size: 80%;
@@ -29,7 +31,7 @@ body{
     align-items: center;
 }
 .left {
-    background: url(portfolio-8.jpg);
+    background:  url(images/portfolio-4.jpg);
     background-size: cover;
 }
 .left .copy {

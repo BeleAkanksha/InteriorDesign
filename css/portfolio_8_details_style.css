@@ -11,7 +11,6 @@ body{
     margin: 0;
     font-family: 'Playfair Display', serif;
     font-weight: 500;
-
 }
 .small {
     font-size: 80%;
@@ -30,7 +29,7 @@ body{
     align-items: center;
 }
 .left {
-    background: url(portfolio-2.jpg);
+    background: url(images/portfolio-8.jpg);
     background-size: cover;
 }
 .left .copy {
@@ -44,9 +43,6 @@ body{
 .right .copy {
     color: rgb(14, 9, 24);
     text-align: center;
-}
-h1 {
-    color: #C850C0;
 }
 .right .copy p {
     margin: 1.5rem 0;
