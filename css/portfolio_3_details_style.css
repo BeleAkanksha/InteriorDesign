@@ -29,7 +29,7 @@ body{
     align-items: center;
 }
 .left {
-    background: url(images/portfolio-3.jpg);
+    background: url("/images/portfolio-3.jpg");
     background-size: cover;
 }
 .left .copy {
